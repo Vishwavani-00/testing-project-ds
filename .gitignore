@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & outputs (keep structure not content)
+data/*.csv
+data/*.parquet
+outputs/forecasts/*.csv
+outputs/reports/*.html
+!data/.gitkeep
+!outputs/forecasts/.gitkeep
+!outputs/reports/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
