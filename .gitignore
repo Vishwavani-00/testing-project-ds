@@ -9,14 +9,10 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data & outputs (keep structure not content)
+# Data (large)
 data/*.csv
 data/*.parquet
-outputs/forecasts/*.csv
-outputs/reports/*.html
 !data/.gitkeep
-!outputs/forecasts/.gitkeep
-!outputs/reports/.gitkeep
 
 # IDE
 .vscode/
