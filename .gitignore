@@ -10,10 +10,6 @@ env/
 .ipynb_checkpoints/
 
 # Data & outputs
-data/*.csv
-data/*.parquet
-outputs/forecasts/*.csv
-outputs/reports/*.html
 !data/.gitkeep
 !outputs/forecasts/.gitkeep
 !outputs/reports/.gitkeep
