@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data (large files)
+data/*.csv
+data/*.parquet
+!data/.gitkeep
+
+# Outputs (keep structure, not files)
+outputs/forecasts/*.csv
+outputs/reports/*.html
+!outputs/forecasts/.gitkeep
+!outputs/reports/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
