@@ -1,0 +1,10 @@
+{
+  "best_model": "Linear Regression",
+  "best_rmse": 106.36,
+  "best_mae": 75.72,
+  "best_mape": 2.91,
+  "forecast_mean": 2565.3433333333337,
+  "forecast_min": 2104.9,
+  "forecast_max": 3202.2,
+  "growth_pct": -10.491204640808247
+}
