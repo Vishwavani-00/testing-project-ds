@@ -182,11 +182,7 @@ Raw Data → Cleaning → Feature Engineering → Modeling → Evaluation → Fo
 
 ## **10. Deliverables**
 
-* Clean dataset
-* EDA report
-* Model comparison report
-* Forecast output file
-* Code repository
+* HTML report
 
 ---
 
